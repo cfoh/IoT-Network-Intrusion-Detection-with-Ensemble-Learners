@@ -6,6 +6,11 @@ We are using Bot-IoT dataset created by Koroniotis *et al*. The information abou
 
 In our program, we use a concatenated csv file instead of original individual csv files. We concatenate the csv files into a single csv file and apply some data cleaning. The script to cancatenate the csv files is given here as `CombineData.ipynb`. The concatenated csv file exceeds the file size limit even after compression, thus it is not provided here. Please use the script to generate the concatenated csv file.
 
-### The Machine Learning Models
+### The Machine Learning (ML) Models
 
-Source code will be made available soon.
+In our paper, we applied the following 5 ML models. You can also find the source code in this repository.
+- Adaboost
+- LightGBM
+- Random Forest
+- CatBoost
+- XGBoost
