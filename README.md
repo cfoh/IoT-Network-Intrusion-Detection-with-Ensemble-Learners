@@ -2,7 +2,7 @@
 
 ## The paper
 
-S. A. Abdulkareem, C. H. Foh, H. Lee, F. Carrez, K. Moessner, "IoT Network Intrusion Detection with Ensemble Learners, " in ICTC 2022. [![Get PDF](https://img.shields.io/badge/Get-PDF-red)](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/ictc2022/abs/AW4-3.pdf)
+S. A. Abdulkareem, C. H. Foh, H. Lee, F. Carrez, K. Moessner, "IoT Network Intrusion Detection with Ensemble Learners, " in ICTC 2022. [![Get PDF](https://img.shields.io/badge/Get-PDF-red)](https://ieeexplore.ieee.org/document/9952376)
 
 ## The Dataset
 
